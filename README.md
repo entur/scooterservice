@@ -16,7 +16,7 @@ The current project should be `entur-mobility-staging`. If it is not, then switc
 
 ## Run app
 
-First of all, make sure you have version 10 or higher of Node.js installed.
+First of all, make sure you have version 12 or higher of Node.js installed.
 
 * Install dependencies: `npm install` (npm >= v7.0.0 is required)
 * Download config variables: `npm run get-config`
